@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
-- 🔭 I’m currently working in **Freelancer and Open-Source Contributor**
+- 🔭 I’m currently working as **Freelancer and Open-Source Contributor**
 
 - 🌱 I’m currently learning **ReactJS, NodeJs, PostgreSQL**
 
