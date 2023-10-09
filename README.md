@@ -42,16 +42,18 @@
   <a href="https://www.buymeacoffee.com/matrix278"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="matrix278" /></a>
 </p> -->
 
-
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-dev&show_icons=true&locale=en&layout=compact" alt="Martin's github stats" />
+<div >
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaru-dev&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="Martin's github stats" />
   </a>
+
+  </br>
   
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandaru-dev&theme=dark" alt="Streak Stats" />
   </a>
 </div>
 
-<!--![Matrix](https://github.com/Matrix278/Matrix278/blob/master/assets/cmatrix.gif)-->
+<h3 align="left">Achievements:</h3>
+
+[![An image of @sandarudev7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandarudev7)](https://holopin.io/@sandarudev7)
