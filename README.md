@@ -9,9 +9,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
-- 🔭 I’m currently working as **Freelancer and Open-Source Contributor**
+- 🔭 I’m currently working as **Freelancer and Open Source Contributor**
 
-- 🌱 I’m currently learning **ReactJS, NodeJs, PostgreSQL**
+- 🌱 I’m currently learning **ReactJS, Redux, NodeJs, MongoDB**
 
 - 🤝 I’m looking for help with any Frontend development using HTML, CSS3, JavaScript, ReactJS, Bootstrap, Tailwind CSS.
 
