@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Redux, NodeJs, MongoDB**
 
-- 🤝 I’m looking for help with any Frontend development using HTML, CSS3, JavaScript, ReactJS, Bootstrap, Tailwind CSS.
+- 🤝 I’m looking to collaborate with any Frontend development using HTML, CSS3, JavaScript, ReactJS, Bootstrap and Tailwind CSS.
 
 <!-- - 👨‍💻 All of my projects are available at [https://martinsidorov.com/](https://martinsidorov.com/) and here) -->
 
