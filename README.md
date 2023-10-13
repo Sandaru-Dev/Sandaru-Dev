@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as **Freelancer and Open Source Contributor**
 
-- 🌱 I’m currently learning **ReactJS, Redux, NodeJs, MongoDB, Data structures and algorithms(DSA)******
+- 🌱 I’m currently learning **ReactJS, Redux, NodeJs, MongoDB, Data structures and algorithms(DSA)
 
 - 🤝 I’m looking to collaborate with any Frontend development using HTML, CSS3, JavaScript, ReactJS, Bootstrap and Tailwind CSS.
 
